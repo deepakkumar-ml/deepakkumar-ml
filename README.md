@@ -17,7 +17,6 @@ My work focuses on:
 
 ## Tech Stack
 **Languages:** Python, SQL, Java, Html
-
 **ML / DL:** Scikit-learn, XGBoost, TensorFlow, PyTorch  
 **NLP:** Classical NLP, Transformers  
 **MLOps:** ML pipelines, model versioning, deployment workflows  
